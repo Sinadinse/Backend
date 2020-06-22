@@ -1,0 +1,13 @@
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.exe
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.deps.json
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.runtimeconfig.json
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.runtimeconfig.dev.json
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.dll
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\bin\Debug\netcoreapp3.1\exercício_05.pdb
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.csprojAssemblyReference.cache
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.AssemblyInfoInputs.cache
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.AssemblyInfo.cs
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.csproj.CoreCompileInputs.cache
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.dll
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.pdb
+C:\Users\Treinamento\Documents\Toti-Treinamento\Backend\Exercícios\exercício_05\obj\Debug\netcoreapp3.1\exercício_05.genruntimeconfig.cache
