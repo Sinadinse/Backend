@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dMECRvqUgBbzwnxBC2GUbpW7w1mBtO8PcP8NuIQ2Q0dDrbCVNn2Dj67PIdykDdRC7Sw0WaWOggwOYfIdxydv6A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Treinamento\\Documents\\Toti-Treinamento\\Backend\\Exercícios\\exercício_06\\exercício_06.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Treinamento\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
